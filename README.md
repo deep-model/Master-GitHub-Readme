@@ -9,6 +9,7 @@ I develop artificial intelligence and machine learning systems deployed in real-
 ## Bridging the Gap between Theoretical and Real-World Applications
 My work focuses on bridging the gap between AI research and real-world operational systems, building intelligent platforms that improve reliability, safety, and production efficiency.
 
+# Main Project Repositories Link (https://github.com/deep-model)
 # Areas of Expertise
 <p> • Industrial AI & Predictive Maintenance </p> 
 <p> • Machine Learning & Deep Learning Systems <brk>
