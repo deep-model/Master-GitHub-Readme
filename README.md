@@ -27,8 +27,10 @@ My work focuses on bridging the gap between AI research and real-world operation
 
 **Outcome**
 <p> Improved production efficiency and reduced operational downtime. </p>
+
 **Predictive Maintenance ML Platform**
 <p> • Predictive maintenance system using machine learning models to detect equipment anomalies and predict failures. </p>
+
  **Technologies**
 <p> • Python </p>
 <p> • Scikit-learn </p>
@@ -40,52 +42,49 @@ My work focuses on bridging the gap between AI research and real-world operation
 **Computer vision systems applied to industrial process monitoring and anomaly detection.**
 
 **Technologies**
-OpenCV
-PyTorch
-CNN architectures
-Edge computing
-Multimodal AI for Process Optimization
+<p> • OpenCV
+<p> • PyTorch
+<p> • CNN architectures
+<p> • Edge computing
+
+# Multimodal AI for Process Optimization
 Transformer-based AI systems combining sensor data and visual inspection data for real-time process optimization.
 
-Technologies
+**Technologies**
 
-CLIP
+<p> • CLIP
+<p> • Vision Transformers
+<p> • Deep Learning
+<p> • Python
+<p> • Research & Innovation
 
-Vision Transformers
+# My research focuses on Applied AI and Industrial Intelligence, particularly:
 
-Deep Learning
+<p> • Autonomous industrial systems
 
-Python
+<p> • Agentic AI for anomaly detection
 
-Research & Innovation
+<p> • AI-driven reliability engineering
 
-My research focuses on Applied AI and Industrial Intelligence, particularly:
+<p> • Computer vision for industrial environments
 
-Autonomous industrial systems
-
-Agentic AI for anomaly detection
-
-AI-driven reliability engineering
-
-Computer vision for industrial environments
-
-Background
+# Background
 
 I have worked in aerospace, energy, and advanced manufacturing, designing automation and AI systems for large-scale operations.
 
 Organizations I have worked with include:
 
-SpaceX
+<p> • SpaceX
 
-Firefly Aerospace
+****Firefly Aerospace
 
-Occidental Petroleum
+****Occidental Petroleum
 
-Chevron Phillips Chemical
+****Chevron Phillips Chemical
 
-Surge Energy
+****Surge Energy
 
-Connect
+# Connect
 
 LinkedIn: [Insert LinkedIn URL]
 Website: [Insert Website URL]
