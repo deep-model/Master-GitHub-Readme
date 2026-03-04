@@ -10,13 +10,13 @@ My work focuses on bridging the gap between AI research and real-world operation
 
 Areas of Expertise
 <p>
-• Industrial AI & Predictive Maintenance <brk>
+• Industrial AI & Predictive Maintenance </p> 
 • Machine Learning & Deep Learning Systems <brk>
 • Computer Vision for Process Optimization <brk>
 • Autonomous Production & Control Systems <brk>
 • Reliability-Centered Engineering <brk>
 • Data Platforms for Industrial Analytics <brk>
-</p>
+
 Selected AI / ML Projects
 Smart Lift – AI Production Optimization
 
