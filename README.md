@@ -1,14 +1,14 @@
 # Master-GitHub-Readme
-Career Profile
-Matthew Harper
+## Career Profile
+## Matthew Harper
 
-Applied Artificial Intelligence | Industrial Automation | Reliability Engineering
+## Applied Artificial Intelligence | Industrial Automation | Reliability Engineering
 
-I develop artificial intelligence and machine learning systems deployed in real-world industrial environments including energy, aerospace, and advanced manufacturing.
+### I develop artificial intelligence and machine learning systems deployed in real-world industrial environments including energy, aerospace, and advanced manufacturing.
 
-My work focuses on bridging the gap between AI research and real-world operational systems, building intelligent platforms that improve reliability, safety, and production efficiency.
+### My work focuses on bridging the gap between AI research and real-world operational systems, building intelligent platforms that improve reliability, safety, and production efficiency.
 
-**Areas of Expertise**
+# Areas of Expertise
 <p> • Industrial AI & Predictive Maintenance </p> 
 <p> • Machine Learning & Deep Learning Systems <brk>
 <p> • Computer Vision for Process Optimization <brk>
@@ -16,7 +16,7 @@ My work focuses on bridging the gap between AI research and real-world operation
 <p> • Reliability-Centered Engineering <brk>
 <p> • Data Platforms for Industrial Analytics <brk>
 
-**Selected AI / ML Projects**
+# Selected AI / ML Projects
 <p> • Smart Lift – AI Production Optimization
 <p> • Machine learning system for artificial lift optimization using gradient descent and predictive analytics.
 <p> • Technologies
@@ -25,13 +25,13 @@ My work focuses on bridging the gap between AI research and real-world operation
 <p> • Time-series ML
 <p> • Industrial control integration
 
-**Outcome**
+# Outcome
 <p> Improved production efficiency and reduced operational downtime. </p>
 
-**Predictive Maintenance ML Platform**
+## Predictive Maintenance ML Platform
 <p> • Predictive maintenance system using machine learning models to detect equipment anomalies and predict failures. </p>
 
- **Technologies**
+ ## Technologies
 <p> • Python </p>
 <p> • Scikit-learn </p>
 <p> • TensorFlow </p>
@@ -39,9 +39,9 @@ My work focuses on bridging the gap between AI research and real-world operation
 <p> • Industrial sensor analytics </p>
 
 # Computer Vision Industrial Monitoring
-**Computer vision systems applied to industrial process monitoring and anomaly detection.**
+## Computer vision systems applied to industrial process monitoring and anomaly detection.
 
-**Technologies**
+## Technologies
 <p> • OpenCV
 <p> • PyTorch
 <p> • CNN architectures
@@ -50,7 +50,7 @@ My work focuses on bridging the gap between AI research and real-world operation
 # Multimodal AI for Process Optimization
 Transformer-based AI systems combining sensor data and visual inspection data for real-time process optimization.
 
-**Technologies**
+## Technologies
 
 <p> • CLIP
 <p> • Vision Transformers
@@ -76,13 +76,13 @@ Organizations I have worked with include:
 
 <p> • SpaceX
 
-****Firefly Aerospace
+<p> • Firefly Aerospace
 
-****Occidental Petroleum
+<p> • Occidental Petroleum
 
-****Chevron Phillips Chemical
+<p> • Chevron Phillips Chemical
 
-****Surge Energy
+<p> • Surge Energy
 
 # Connect
 
