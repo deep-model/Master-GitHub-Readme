@@ -1,6 +1,6 @@
 # Matthew Harper
 ## Career Profile
-## 
+## Electrical Engineer | Computer & Data Scientist
 
 ## Applied Artificial Intelligence | Industrial Automation | Reliability Engineering
 
