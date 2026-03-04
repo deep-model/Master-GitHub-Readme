@@ -8,7 +8,7 @@ I develop artificial intelligence and machine learning systems deployed in real-
 
 My work focuses on bridging the gap between AI research and real-world operational systems, building intelligent platforms that improve reliability, safety, and production efficiency.
 
-Areas of Expertise
+**Areas of Expertise**
 <p> • Industrial AI & Predictive Maintenance </p> 
 <p> • Machine Learning & Deep Learning Systems <brk>
 <p> • Computer Vision for Process Optimization <brk>
@@ -16,56 +16,35 @@ Areas of Expertise
 <p> • Reliability-Centered Engineering <brk>
 <p> • Data Platforms for Industrial Analytics <brk>
 
-Selected AI / ML Projects
-Smart Lift – AI Production Optimization
+**Selected AI / ML Projects**
+<p> • Smart Lift – AI Production Optimization
+<p> • Machine learning system for artificial lift optimization using gradient descent and predictive analytics.
+<p> • Technologies
+<p> • Python
+<p> • PyTorch
+<p> • Time-series ML
+<p> • Industrial control integration
 
-Machine learning system for artificial lift optimization using gradient descent and predictive analytics.
+**Outcome**
+<p> Improved production efficiency and reduced operational downtime.
+<p> **Predictive Maintenance ML Platform**
+<p> • Predictive maintenance system using machine learning models to detect equipment anomalies and predict failures.
+<p> • Technologies
+<p> • Python
+<p> • Scikit-learn
+<p> • TensorFlow
+<p> • Time-series forecasting
+<p> • Industrial sensor analytics
 
-Technologies
+# Computer Vision Industrial Monitoring
+**Computer vision systems applied to industrial process monitoring and anomaly detection.**
 
-Python
-
-PyTorch
-
-Time-series ML
-
-Industrial control integration
-
-Outcome
-Improved production efficiency and reduced operational downtime.
-
-Predictive Maintenance ML Platform
-
-Predictive maintenance system using machine learning models to detect equipment anomalies and predict failures.
-
-Technologies
-
-Python
-
-Scikit-learn
-
-TensorFlow
-
-Time-series forecasting
-
-Industrial sensor analytics
-
-Computer Vision Industrial Monitoring
-
-Computer vision systems applied to industrial process monitoring and anomaly detection.
-
-Technologies
-
+**Technologies**
 OpenCV
-
 PyTorch
-
 CNN architectures
-
 Edge computing
-
 Multimodal AI for Process Optimization
-
 Transformer-based AI systems combining sensor data and visual inspection data for real-time process optimization.
 
 Technologies
