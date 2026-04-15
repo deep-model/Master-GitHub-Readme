@@ -20,7 +20,7 @@ My work focuses on bridging the gap between AI research and real-world operation
 <p> • Data Platforms for Industrial Analytics <brk>
 
 # Selected AI / ML Projects
-<p> • # Smart Lift – AI Production Optimization - Gas Injection for artificial lift optimization with gradient descent. 
+# <p> • Smart Lift – AI Production Optimization - Gas Injection for artificial lift optimization with gradient descent. 
 <p> • Smart Tank - AI Optimized Tank Level & Pressure Control with Predictive Analytics
 <p> • Computer Vision Based Asset Monitoring with HSV Induced Segmentation </p>
  (https://github.com/deep-model/Computer-Vision-Based-Asset-Monitoring-with-HSV-Image-Segmentation/tree/main) 
